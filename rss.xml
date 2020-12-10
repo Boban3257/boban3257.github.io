@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<title>Bobix Gaming</title>
+	<link></link>
+	<description></description>
+	<language>en-us</language>
+	<item>
+		<title></title>
+		<pubdate></pubdate>
+		<link></link>
+		<description><![CDATA[Visit this <a href="">link</a>] to my website!]]></description>
+		<author>bobixgamingict@gmail.com</author>
+	</item>
+	</channel>
+</rss>
